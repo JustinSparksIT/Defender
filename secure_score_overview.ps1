@@ -253,9 +253,9 @@ foreach($deviceRecommendation in $deviceRecommendations){
         "macOS Exposed" = $macOS
         "macOS Exposed Points" = $macOSPoints
         "macOS Percentage" = $macOS / $totalMachines
-        "Azure VMs Exposed" = $azureVms
-        "Azure VMs Exposed Points" = $azureVmsPoints
-        "Azure VMs Percentage" = $azureVms / $totalMachines
+        "Servers Exposed" = $servers
+        "Servers Exposed Points" = $serverPoints
+        "Servers Percentage" = $servers / $totalMachines
         "Active Exposed" = $activeMachines
         "Active Exposed Points" = $activeMachinesPoints
         "Active Percentage" = $activeMachines / $totalMachines
